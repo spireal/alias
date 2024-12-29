@@ -1,7 +1,8 @@
-# ver 4
+# ver 5
 #source ~/.bash_aliases
 
-alias updatealias='wget https://raw.githubusercontent.com/spireal/alias/main/.bash_aliases -O ~/.bash_aliases && source ~/.bash_aliases'
+alias updatealias='wget -q https://raw.githubusercontent.com/spireal/alias/main/.bash_aliases -O ~/.bash_aliases && source ~/.bash_aliases'
+
 
 
 
